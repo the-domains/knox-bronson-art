@@ -1,0 +1,28 @@
+name: Knox Bronson Art
+favicon: null
+layout_spectrum: 0.17695389944128692
+typography_spectrum: 0.3905790471471846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8246748421806842
+  lightness: 0.14401043811812997
+  saturation: 0.4906352984253317
+  rhythmicContrast: 0.34231443074531853
+purpose: []
