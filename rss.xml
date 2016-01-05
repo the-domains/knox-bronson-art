@@ -4,7 +4,7 @@
         <description><![CDATA[Knox Bronson Art]]></description>
         <link>https://thegrid.ai/knox-bronson-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 04:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 20:24:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knox-bronson-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,23 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/knox-bronson-art/50d4396a-6b70-4dc3-b398-e7a038be4b26/index.html</link>
+            <guid isPermaLink="false">50d4396a-6b70-4dc3-b398-e7a038be4b26</guid>
+            <pubDate>Tue, 05 Jan 2016 20:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4ceb4da-5717-48f9-95eb-6f44cda9e838.jpg">]]></description>
+            <link>https://thegrid.ai/knox-bronson-art/ea8bb530-0488-41b4-960b-350d14407134/index.html</link>
+            <guid isPermaLink="false">ea8bb530-0488-41b4-960b-350d14407134</guid>
+            <pubDate>Tue, 05 Jan 2016 05:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0829086e-e241-446e-8841-4400718d75f4.jpg">]]></description>
             <link>https://thegrid.ai/knox-bronson-art/6746c51f-11df-4482-b5fa-e31738668cb8/index.html</link>
             <guid isPermaLink="false">6746c51f-11df-4482-b5fa-e31738668cb8</guid>
-            <pubDate>Tue, 05 Jan 2016 04:12:35 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 05:48:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
