@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Knox Bronson Art]]></title>
         <description><![CDATA[Knox Bronson Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/knox-bronson-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 03:51:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 04:12:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/knox-bronson-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d0fa3b-19df-40d6-9ab3-09e24cfec970.PNG">]]></description>
-            <link>undefined58ffc119-4c1d-449c-a72d-9d03473331a2/index.html</link>
+            <link>https://thegrid.ai/knox-bronson-art/58ffc119-4c1d-449c-a72d-9d03473331a2/index.html</link>
             <guid isPermaLink="false">58ffc119-4c1d-449c-a72d-9d03473331a2</guid>
             <pubDate>Tue, 05 Jan 2016 03:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0829086e-e241-446e-8841-4400718d75f4.jpg">]]></description>
+            <link>https://thegrid.ai/knox-bronson-art/6746c51f-11df-4482-b5fa-e31738668cb8/index.html</link>
+            <guid isPermaLink="false">6746c51f-11df-4482-b5fa-e31738668cb8</guid>
+            <pubDate>Tue, 05 Jan 2016 04:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
